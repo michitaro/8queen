@@ -1,5 +1,5 @@
 ```bash
-bash-3.2$ time python ./eightqueen.py | tail
+bash-3.2$ time python ./eightqueen.py --print | tail
 .......Q
 ...Q....
 Q.......
