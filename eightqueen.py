@@ -6,8 +6,7 @@ roots: List[State] = []
 
 
 def main():
-    s = []
-    find_roots(s)
+    find_roots([])
     print(f'n={len(roots)}')
 
 
